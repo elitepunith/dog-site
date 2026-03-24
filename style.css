@@ -1,0 +1,111 @@
+body {
+  background-color: #fdf6ec;   
+  color: #3b2a1a;             
+  font-family: Georgia, "Times New Roman", serif;
+  padding: 20px;
+  line-height: 1.7;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #5c3d1e;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  color: #5c3d1e;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+a {
+  color: #b35c00;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #e07b00;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  margin: 10px 5px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.image-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+ul {
+  padding-left: 30px;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+
+.treat-section {
+  margin-top: 36px;
+  text-align: center;
+  padding: 24px;
+  background: #fff3e0;
+  border-radius: 16px;
+  border: 2px dashed #d4956a;
+}
+
+
+button {
+  background-color: #c0622a;
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-family: Georgia, serif;
+  padding: 12px 28px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 4px 0 #8a3d15;
+  transition: transform 0.1s, box-shadow 0.1s;
+}
+
+button:hover {
+  background-color: #a84e1e;
+}
+
+button:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 #8a3d15;
+}
+
+.treat-text {
+  margin-top: 14px;
+  font-size: 1.1rem;
+  color: #5c3d1e;
+}
+
+#treat-count {
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #c0622a;
+}
+
+jjioo hhhii hhh hhh punith kumar grttib njj kkk hh jjj punith umdyyyyih iiu kk
+
+kkk kk kpunnighiihh jj kkk stting 
+hhh hhh are getting this isse for dea tho og they rethi 
