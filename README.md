@@ -1,4 +1,4 @@
-# dog-site
+# Dog-site
 This is a basic website of Dogs using html , css and javascript.
 
 # Preview
