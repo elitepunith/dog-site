@@ -14,10 +14,8 @@ check demo here : "https://dog-site-orpin.vercel.app/"
 
 # Local Installation 
 
-# Clone the repository
-git clone https://github.com/elite_punith/dog-site.git
+1. Clone the repository git clone https://github.com/elite_punith/dog-site.git
 
-# Navigate into the project directory
-cd dog-site
+2. Navigate into the project directory cd dog-site
 
-# Open index.html in your browser to view the site
+3. Open index.html in your browser to view the site
